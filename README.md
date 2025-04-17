@@ -1,7 +1,7 @@
 # Computer-Vision-Capstone-Project
 
 ## Overview
-This repository contains the hands-on project developed as part of the fifth and final course in the Python 3 Programming Specialization. The project is designed to showcase the practical application of Python programming skills by integrating various third-party APIs, manipulating images, and applying Optical Character Recognition (OCR).
+The project is designed to showcase the practical application of Python programming skills by integrating various third-party APIs, manipulating images, and applying Optical Character Recognition (OCR).
 
 Project Details
 Throughout this course, I worked with several powerful libraries and tools to create a real-world project. Here’s an overview of the key components:
